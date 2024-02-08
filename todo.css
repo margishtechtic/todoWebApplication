@@ -1,0 +1,15 @@
+#dltbtn{
+    background-color: rgb(180, 36, 36);
+    color: white;
+    margin-right: 7px;
+    margin-left: 50px;
+    font-weight: 100;
+}
+
+#updbtn{
+    background-color: rgb(55, 93, 177);
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    margin-left: 10px;
+    font-weight: 100;
+}
